@@ -1,0 +1,32 @@
+{
+  "sections": [
+    {
+      "title": "Sorcerers & Spirits",
+      "entries": ["A dice-combat game"]
+    },
+    {
+      "title": "Design & Development",
+      "entries": ["Oliver Graham"]
+    },
+    {
+      "title": "Programming",
+      "entries": ["Oliver Graham"]
+    },
+    {
+      "title": "Art & Illustration",
+      "entries": ["Placeholder Artist"]
+    },
+    {
+      "title": "Music & Sound",
+      "entries": ["Placeholder Composer"]
+    },
+    {
+      "title": "Special Thanks",
+      "entries": ["The Playtesters", "Family & Friends"]
+    },
+    {
+      "title": "Thank You For Playing",
+      "entries": []
+    }
+  ]
+}

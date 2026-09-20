@@ -1,0 +1,10 @@
+{
+  "Rogue":       { "hitPoints": 5, "maxHitPoints": 5, "armorClass": 6, "speed": 8 },
+  "Gambler":     { "hitPoints": 3, "maxHitPoints": 3, "armorClass": 4, "speed": 7 },
+  "Duelist":     { "hitPoints": 4, "maxHitPoints": 4, "armorClass": 4, "speed": 6 },
+  "Necromancer": { "hitPoints": 7, "maxHitPoints": 7, "armorClass": 7, "speed": 5 },
+  "Bard":        { "hitPoints": 5, "maxHitPoints": 5, "armorClass": 5, "speed": 4 },
+  "Illusionist": { "hitPoints": 5, "maxHitPoints": 5, "armorClass": 5, "speed": 3 },
+  "Mage":        { "hitPoints": 4, "maxHitPoints": 4, "armorClass": 4, "speed": 2 },
+  "Paladin":     { "hitPoints": 7, "maxHitPoints": 7, "armorClass": 7, "speed": 1 }
+}

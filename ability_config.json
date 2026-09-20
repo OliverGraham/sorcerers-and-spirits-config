@@ -1,0 +1,38 @@
+{
+  "holyShieldSuccessRange": {
+    "min": 10,
+    "max": 12
+  },
+  "riposteSuccessRange": {
+    "min": 6,
+    "max": 8
+  },
+  "prepareAttackKnockoutRange": {
+    "min": 10,
+    "max": 12
+  },
+  "prepareAttackBypassHolyShieldRoll": 12,
+  "allInSelfKnockoutRoll": 1,
+  "allInAttackTwiceRange": {
+    "min": 5,
+    "max": 6
+  },
+  "summonSkeletonRange": {
+    "min": 2,
+    "max": 3
+  },
+  "summonSkeletonAndHealRange": {
+    "min": 4,
+    "max": 5
+  },
+  "summonGolemRoll": 6,
+  "encoreSuccessRange": {
+    "min": 5,
+    "max": 6
+  },
+  "persuadeLullRoll": 5,
+  "persuadeCharmRoll": 6,
+  "luckyCoinHighRollerRoll": 6,
+  "dodgeMaxArmorBonus": 2,
+  "spellPotencySplashDivisor": 2
+}

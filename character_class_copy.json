@@ -1,0 +1,87 @@
+{
+  "stat.health": {
+    "name": "Health",
+    "long": "Hit points. When a damage roll meets or beats this, you're knocked out.",
+    "short": "HP — meet or beat it to KO."
+  },
+  "stat.armor": {
+    "name": "Armor",
+    "long": "Armor Class. An attacker's first roll must meet or beat this to land a hit.",
+    "short": "AC — beat it to land a hit."
+  },
+  "stat.speed": {
+    "name": "Speed",
+    "long": "Sets turn order — higher speed acts earlier in the round.",
+    "short": "Higher acts earlier."
+  },
+  "offensive.killingMomentum": {
+    "name": "Killing Momentum",
+    "long": "If you knock out an opponent, immediately attack another player of your choice.",
+    "short": "KO an opponent, then attack another."
+  },
+  "offensive.allIn": {
+    "name": "All-In",
+    "long": "Activated. Roll 1d6: on 5–6 attack twice this round; on 1 you knock yourself out; 2–4 no effect.",
+    "short": "Roll 1d6: 5–6 attack twice, 1 self-KO."
+  },
+  "offensive.prepareAttack": {
+    "name": "Prepare Attack",
+    "long": "Activated. Roll 2d6 — a 10, 11 or 12 knocks the target out.",
+    "short": "Roll 2d6: 10–12 KOs the target."
+  },
+  "offensive.summonMinion": {
+    "name": "Summon Minion",
+    "long": "Activated. Roll 1d6 to raise a skeleton or golem (and sometimes heal). Minions add a shield and an extra attack.",
+    "short": "Roll 1d6 to raise a minion (shield + extra attack)."
+  },
+  "offensive.encore": {
+    "name": "Encore",
+    "long": "After dealing damage, roll 1d6 — on a 5 or 6, attack again.",
+    "short": "After damage, 5–6 attacks again."
+  },
+  "offensive.impersonate": {
+    "name": "Impersonate",
+    "long": "Activated. Copy a living opponent's offensive ability until you choose another.",
+    "short": "Copy an opponent's offensive ability."
+  },
+  "offensive.spellPotency": {
+    "name": "Spell Potency",
+    "long": "Roll doubles to hit or damage: deal the dice total to the target and half to every other opponent, then end your turn.",
+    "short": "Doubles: full damage to target, half to all."
+  },
+  "defensive.dodge": {
+    "name": "Dodge",
+    "long": "Each time an attacker fails to break your armor, gain +1 Armor (up to +2) for the match.",
+    "short": "Failed hits give +1 Armor (max +2)."
+  },
+  "defensive.luckyCoin": {
+    "name": "Lucky Coin",
+    "long": "When your armor is broken, add 1d6 to Armor until turn end; on a 6, deal 1d6 back to the attacker.",
+    "short": "Broken armor: +1d6 AC; 6 hits back."
+  },
+  "defensive.riposte": {
+    "name": "Riposte",
+    "long": "When an opponent passes your armor, roll 2d6 — on a 6, 7 or 8 you turn the attack back on them.",
+    "short": "Pass armor: 6–8 turns it back on them."
+  },
+  "defensive.persuade": {
+    "name": "Persuade",
+    "long": "When your armor is passed, roll 1d6 — on a 5 stop the attack; on a 6 redirect it to another target.",
+    "short": "Passed armor: 5 stops, 6 redirects."
+  },
+  "defensive.mirrorImage": {
+    "name": "Mirror Image",
+    "long": "Once per attack phase, reroll one die and subtract 1 (result can be 0). Not usable on special-ability damage.",
+    "short": "Reroll a die at −1, once per phase."
+  },
+  "defensive.teleport": {
+    "name": "Teleport",
+    "long": "When your armor is passed, roll off 1d6 with the attacker — roll higher to escape the attack.",
+    "short": "Passed armor: roll higher to escape."
+  },
+  "defensive.holyShield": {
+    "name": "Holy Shield",
+    "long": "Once per match, when knocked out roll 2d6 — on 10–12 survive at 1 HP and deal 1d6 unblockable to the attacker.",
+    "short": "KO once/match: 10–12 survive at 1 HP."
+  }
+}
